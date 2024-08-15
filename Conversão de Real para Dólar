@@ -1,0 +1,3 @@
+real=float(input("Quanto dinheiro você tem na carteria? R$"))
+dolar=real/5.49
+print("Com {} você pode comprar {:.2f}".format(real,dolar))
